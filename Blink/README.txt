@@ -6,7 +6,7 @@ MSP430 development board
 Code Composer Studio (CCS) or MSP430 GCC toolchain
 USB cable for power and programming the board
 Getting Started
-Clone the repository to your local machine using the command: git clone https://github.com/your-username/msp430-led-blink.git
+Clone the repository to your local machine 
 Connect the MSP430 development board to your computer using the USB cable.
 Open Code Composer Studio or your preferred IDE and import the project.
 Build the project and make sure there are no errors.
